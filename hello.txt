@@ -1,1 +1,2 @@
 this is one of my try in learning git
+this done by remote for the first time
